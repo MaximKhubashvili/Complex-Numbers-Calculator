@@ -5,3 +5,7 @@ C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\Uni
 C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\UnitTest\bin\Debug\AppCalculator.pdb
 C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\UnitTest\obj\Debug\UnitTest.dll
 C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Максим\Desktop\трпо\proj\Complex-Numbers-Calculator\AppCalculator1\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\трпо\proj\Complex-Numbers-Calculator\AppCalculator1\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\трпо\proj\Complex-Numbers-Calculator\AppCalculator1\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Максим\Desktop\трпо\proj\Complex-Numbers-Calculator\AppCalculator1\UnitTest\obj\Debug\UnitTest.pdb
