@@ -1,2 +1,0 @@
-C:\Users\Юри\Downloads\Учеба\СТП\СТП\UniversalAppCalculator_rar\AppCalculator\.vs\AppCalculator\lut\0\i\UnitTest\Debug\UnitTest.csprojResolveAssemblyReference.cache
-C:\Users\Юри\Downloads\Учеба\СТП\СТП\UniversalAppCalculator_rar\AppCalculator\.vs\AppCalculator\lut\0\i\UnitTest\Debug\UnitTest.csproj.CoreCompileInputs.cache
