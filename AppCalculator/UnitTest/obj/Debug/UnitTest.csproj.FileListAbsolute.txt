@@ -1,0 +1,7 @@
+C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\UnitTest\bin\Debug\AppCalculator.exe
+C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\UnitTest\bin\Debug\AppCalculator.pdb
+C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\UnitTest\obj\Debug\UnitTest.pdb
