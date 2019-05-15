@@ -1,0 +1,74 @@
+C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe.config
+C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Main.resources
+C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Properties.Resources.resources
+C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csproj.GenerateResource.Cache
+C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe
+C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\AppCalculator\bin\Debug\AppCalculator.pdb
+C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\AppCalculator\obj\Debug\AppCalculator.exe
+C:\Users\Буэндиа\Desktop\STP\0 - my\1 - test calculator\AppCalculator\AppCalculator\obj\Debug\AppCalculator.pdb
+C:\Users\Буэндиа\Desktop\STP\0 - my\2 - universal calculator\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe.config
+C:\Users\Буэндиа\Desktop\STP\0 - my\2 - universal calculator\AppCalculator\AppCalculator\obj\Debug\AppCalculator.exe
+C:\Users\Буэндиа\Desktop\STP\0 - my\2 - universal calculator\AppCalculator\AppCalculator\obj\Debug\AppCalculator.pdb
+C:\Users\Буэндиа\Desktop\STP\0 - my\2 - universal calculator\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe
+C:\Users\Буэндиа\Desktop\STP\0 - my\2 - universal calculator\AppCalculator\AppCalculator\bin\Debug\AppCalculator.pdb
+C:\Users\Буэндиа\Desktop\STP\0 - my\2 - universal calculator\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Буэндиа\Desktop\STP\0 - my\2 - universal calculator\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Main.resources
+C:\Users\Буэндиа\Desktop\STP\0 - my\2 - universal calculator\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Properties.Resources.resources
+C:\Users\Буэндиа\Desktop\STP\0 - my\2 - universal calculator\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csproj.GenerateResource.Cache
+C:\Users\f0rever\Downloads\UniversalAppCalculator_rar\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe.config
+C:\Users\f0rever\Downloads\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.exe
+C:\Users\f0rever\Downloads\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.pdb
+C:\Users\f0rever\Downloads\UniversalAppCalculator_rar\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe
+C:\Users\f0rever\Downloads\UniversalAppCalculator_rar\AppCalculator\AppCalculator\bin\Debug\AppCalculator.pdb
+C:\Users\f0rever\Downloads\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csprojResolveAssemblyReference.cache
+C:\Users\f0rever\Downloads\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Main.resources
+C:\Users\f0rever\Downloads\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Properties.Resources.resources
+C:\Users\f0rever\Downloads\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csproj.GenerateResource.Cache
+C:\Users\Юри\Downloads\Учеба\СТП\СТП\UniversalAppCalculator_rar\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe.config
+C:\Users\Юри\Downloads\Учеба\СТП\СТП\UniversalAppCalculator_rar\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe
+C:\Users\Юри\Downloads\Учеба\СТП\СТП\UniversalAppCalculator_rar\AppCalculator\AppCalculator\bin\Debug\AppCalculator.pdb
+C:\Users\Юри\Downloads\Учеба\СТП\СТП\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Юри\Downloads\Учеба\СТП\СТП\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Main.resources
+C:\Users\Юри\Downloads\Учеба\СТП\СТП\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Properties.Resources.resources
+C:\Users\Юри\Downloads\Учеба\СТП\СТП\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csproj.GenerateResource.Cache
+C:\Users\Юри\Downloads\Учеба\СТП\СТП\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Юри\Downloads\Учеба\СТП\СТП\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.exe
+C:\Users\Юри\Downloads\Учеба\СТП\СТП\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.pdb
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe.config
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar\AppCalculator\AppCalculator\bin\Debug\AppCalculator.pdb
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Main.resources
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Properties.Resources.resources
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.exe
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar\AppCalculator\AppCalculator\obj\Debug\AppCalculator.pdb
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Main.resources
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Properties.Resources.resources
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\obj\Debug\AppCalculator.exe
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\obj\Debug\AppCalculator.pdb
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe.config
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe
+C:\Users\Максим\Desktop\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\bin\Debug\AppCalculator.pdb
+C:\Users\Максим\Desktop\универ\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe.config
+C:\Users\Максим\Desktop\универ\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe
+C:\Users\Максим\Desktop\универ\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\bin\Debug\AppCalculator.pdb
+C:\Users\Максим\Desktop\универ\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\универ\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Main.resources
+C:\Users\Максим\Desktop\универ\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Properties.Resources.resources
+C:\Users\Максим\Desktop\универ\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\универ\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\универ\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\obj\Debug\AppCalculator.exe
+C:\Users\Максим\Desktop\универ\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator\AppCalculator\obj\Debug\AppCalculator.pdb
+C:\Users\Максим\Desktop\универ\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator1\AppCalculator\obj\Debug\AppCalculator.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\универ\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator1\AppCalculator\obj\Debug\AppCalculator.Main.resources
+C:\Users\Максим\Desktop\универ\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator1\AppCalculator\obj\Debug\AppCalculator.Properties.Resources.resources
+C:\Users\Максим\Desktop\универ\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator1\AppCalculator\obj\Debug\AppCalculator.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\универ\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator1\AppCalculator\obj\Debug\AppCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\универ\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator1\AppCalculator\obj\Debug\AppCalculator.exe
+C:\Users\Максим\Desktop\универ\стп2\ргз\UniversalAppCalculator\UniversalAppCalculator_rar_1\AppCalculator1\AppCalculator\obj\Debug\AppCalculator.pdb
